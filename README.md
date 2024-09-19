@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome!   This is the David Beasley's Youtube channel Subscribe: https://www.youtube.com/@dabeazllc/videos  
 
 When I first learned Python nearly 27 years ago, I was immediately
 struck by how I could productively apply it to all sorts of messy work
